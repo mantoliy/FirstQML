@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FirstQML">
+    <file alias="qmldir">/home/anatoliy/Documents/AnatoliyQTProjects/FirstQML/FirstQML/build/Android_Qt_6_8_0_Clang_x86_64-Debug/FirstQML/qmldir</file>
+  </qresource>
+</RCC>
+
